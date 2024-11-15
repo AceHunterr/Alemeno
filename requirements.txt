@@ -1,0 +1,10 @@
+Django>=4.0
+djangorestframework
+psycopg2
+celery
+redis
+pandas 
+openpyxl
+requests
+eventlet
+psycopg2-binary
